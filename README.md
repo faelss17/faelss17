@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Rafael 👋
+# Olá, eu sou Rafael 🕸️
 
 ### Desenvolvedor Full Stack | Java • Python • Django • React • APIs
 
