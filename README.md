@@ -63,8 +63,6 @@
 
 ## ⚡ Curiosidades
 
-- ☕ Apaixonado por **Java** e seu ecossistema robusto
-- 🐍 Também codo muito em **Python** para web e automações
 - 🎮 Curto games e tecnologia no tempo livre
 - 🧠 Sempre aprendendo algo novo
 - 🚀 Construindo projetos de portfólio para crescer profissionalmente
